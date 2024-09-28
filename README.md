@@ -1,4 +1,4 @@
-![AIML](https://cdn.dribbble.com/users/1040798/screenshots/15685874/media/aa9588469e19517c2b94b1addd15d11d.gif)
+![AIML](https://www.animaker.com/hub/wp-content/uploads/2022/10/ezgif.com-gif-maker-12-1.gif)
 
 <h1 align="center">Hi 👋, I'm Sai Teja Ankam</h1>
 <h3 align="center">A passionate AIML Engineer and Fullstack Developer from India</h3>
