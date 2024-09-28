@@ -1,3 +1,5 @@
+[![AIML](https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif)]
+
 <h1 align="center">Hi 👋, I'm Sai Teja Ankam</h1>
 <h3 align="center">A passionate AIML Engineer and Fullstack Developer from India</h3>
 
